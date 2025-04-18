@@ -27,6 +27,6 @@ Make sure you have the following installed:
 Clone the repository and install the required Python packages:
 
 ```bash
-git clone https://github.com/your-username/ecommerce-platform.git
+git clone https://github.com/vishwajeet14all/pepsales_assgnment.git
 cd ecommerce-platform
 pip install -r requirements.txt
